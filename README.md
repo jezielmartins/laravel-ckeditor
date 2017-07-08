@@ -7,7 +7,7 @@ p.s. Instead of using this package, I recommend just follow [the official CKEdit
 ### Set up package
 
 ```
-composer require unisharp/laravel-ckeditor
+composer require jezielmartins/laravel-ckeditor
 ```
 
 ### Add ServiceProvider
