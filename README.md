@@ -14,7 +14,7 @@ composer require jezielmartins/laravel-ckeditor
 
 Edit config/app.php, add the following file to `Application Service Providers` section.
 ```
-Unisharp\Ckeditor\ServiceProvider::class,
+jezielmartins\Ckeditor\ServiceProvider::class,
 ```
 ### Publish the resources
 ```
